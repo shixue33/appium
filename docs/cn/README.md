@@ -22,7 +22,7 @@
 
 1. 你不需要以任何方式重新编译或者修改你的app，就可以在所有的平台上使用标准的自动化APIs。
 2. 你可以用你喜欢的开发工具使用任何 [WebDriver](https://code.google.com/p/selenium/wiki/JsonWireProtocol) 兼容的语言来编写测试用例。比如
-Java, [Objective-C](https://github.com/appium/selenium-objective-c)，
+Java，[Objective-C](https://github.com/appium/selenium-objective-c)，
    JavaScript with Node.js (in both [callback](https://github.com/admc/wd) and [yield-based](https://github.com/jlipps/yiewd) flavours)，
    PHP，Python，[Ruby](https://github.com/appium/ruby_lib)，C#，Clojure，或者 Perl
    可以使用标准的Selenium WebDriver API和特定语言的客户端库。
@@ -110,7 +110,7 @@ FirefoxOS的支持依赖一个基于Gecko平台并且兼容WebDriver的自动化
 
 ## 其他项目的授权和灵感来源
 
-[Credits](../../credits.cn.md)
+[Credits](contributing-to-appium/credits.md)
 
 ## 邮件列表
 
