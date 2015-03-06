@@ -110,7 +110,7 @@ FirefoxOS的支持依赖一个基于Gecko平台并且兼容WebDriver的自动化
 
 ## 其他项目的授权和灵感来源
 
-[Credits](contributing-to-appium/credits.md)
+[Credits](contributing-to-appium/credits.cn.md)
 
 ## 邮件列表
 
